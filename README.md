@@ -30,7 +30,9 @@
 
 ## 🛠️ 기술 스택
 언어: Verilog
+
 설계 도구: LogicWorks
+
 구현 환경: Bread Board, Verilog Simulation Tool
 
 ## 📂 폴더 구조 (Folder Structure)
