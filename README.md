@@ -27,6 +27,12 @@
 3. **Mod-13 Counter 활용**
    - Verilog로 Mod-13 Counter를 설계하여 신호 주기를 제어.
 
+
+## 🛠️ 기술 스택
+언어: Verilog
+설계 도구: LogicWorks
+구현 환경: Bread Board, Verilog Simulation Tool
+
 ## 📂 폴더 구조 (Folder Structure)
 ```plaintext
 Traffic_Signal_Controller/
@@ -40,7 +46,3 @@ Traffic_Signal_Controller/
 ├── 최종 회로.cct                           # 최종 회로 설계 파일
 └── README.md                                # 프로젝트 설명 파일 (현재 파일)
 
-## 🛠️ 기술 스택
-언어: Verilog
-설계 도구: LogicWorks
-구현 환경: Bread Board, Verilog Simulation Tool
